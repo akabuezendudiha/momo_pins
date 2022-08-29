@@ -1,0 +1,1 @@
+enum UssdResultState { error, success }
